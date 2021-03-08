@@ -1,0 +1,19 @@
+    #start ,#stop ,#reset {
+      font-weight: bold;
+      background-color: silver;
+      border-radius: 10px
+      
+    }
+    
+    #time {
+      font-size: 30px;
+      
+    }
+    
+    #start:hover,#stop:hover,#reset:hover {
+      opacity: 0.9;
+    }
+    
+     
+    
+    
